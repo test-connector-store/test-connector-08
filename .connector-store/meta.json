@@ -1,0 +1,29 @@
+{
+  "name": "Twitter Connector",
+  "owner": "Twitter",
+  "category": "Social Media",
+  "documentationUrl": "https://developer.twitter.com/en/docs",
+  "description": "Connect your application with the Twitter platform using our versatile Twitter connector. Fetch tweets, analyze trends, and interact with Twitter users seamlessly. Enhance your social media integration capabilities and engage with your audience effectively.",
+  "status": "Active",
+  "labels": [
+    "Integration",
+    "Connector",
+    "Social Media"
+  ],
+  "releases": [
+    {
+      "tagName": "release-5",
+      "products": [
+        "EI 9.0.1",
+        "EI 8.3.0"
+      ]
+    },
+    {
+      "tagName": "release-3",
+      "products": [
+        "EI 2.1.0",
+        "IS 2.0.0"
+      ]
+    }
+  ]
+}
